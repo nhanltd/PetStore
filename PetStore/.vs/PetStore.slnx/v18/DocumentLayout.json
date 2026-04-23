@@ -1,0 +1,223 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nhan\\workplace\\hsu\\webdev\\w5\\PetStore\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D54D9E9E-783E-4C94-AEBC-740B1E8B9179}|PetStore\\PetStore.csproj|c:\\users\\nhan\\workplace\\hsu\\webdev\\w5\\petstore\\petstore\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D54D9E9E-783E-4C94-AEBC-740B1E8B9179}|PetStore\\PetStore.csproj|solutionrelative:petstore\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D54D9E9E-783E-4C94-AEBC-740B1E8B9179}|PetStore\\PetStore.csproj|c:\\users\\nhan\\workplace\\hsu\\webdev\\w5\\petstore\\petstore\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D54D9E9E-783E-4C94-AEBC-740B1E8B9179}|PetStore\\PetStore.csproj|solutionrelative:petstore\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D54D9E9E-783E-4C94-AEBC-740B1E8B9179}|PetStore\\PetStore.csproj|c:\\users\\nhan\\workplace\\hsu\\webdev\\w5\\petstore\\petstore\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D54D9E9E-783E-4C94-AEBC-740B1E8B9179}|PetStore\\PetStore.csproj|solutionrelative:petstore\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D54D9E9E-783E-4C94-AEBC-740B1E8B9179}|PetStore\\PetStore.csproj|c:\\users\\nhan\\workplace\\hsu\\webdev\\w5\\petstore\\petstore\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D54D9E9E-783E-4C94-AEBC-740B1E8B9179}|PetStore\\PetStore.csproj|solutionrelative:petstore\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D54D9E9E-783E-4C94-AEBC-740B1E8B9179}|PetStore\\PetStore.csproj|c:\\users\\nhan\\workplace\\hsu\\webdev\\w5\\petstore\\petstore\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D54D9E9E-783E-4C94-AEBC-740B1E8B9179}|PetStore\\PetStore.csproj|solutionrelative:petstore\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D54D9E9E-783E-4C94-AEBC-740B1E8B9179}|PetStore\\PetStore.csproj|c:\\users\\nhan\\workplace\\hsu\\webdev\\w5\\petstore\\petstore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D54D9E9E-783E-4C94-AEBC-740B1E8B9179}|PetStore\\PetStore.csproj|solutionrelative:petstore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D54D9E9E-783E-4C94-AEBC-740B1E8B9179}|PetStore\\PetStore.csproj|c:\\users\\nhan\\workplace\\hsu\\webdev\\w5\\petstore\\petstore\\models\\petstorecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D54D9E9E-783E-4C94-AEBC-740B1E8B9179}|PetStore\\PetStore.csproj|solutionrelative:petstore\\models\\petstorecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D54D9E9E-783E-4C94-AEBC-740B1E8B9179}|PetStore\\PetStore.csproj|c:\\users\\nhan\\workplace\\hsu\\webdev\\w5\\petstore\\petstore\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D54D9E9E-783E-4C94-AEBC-740B1E8B9179}|PetStore\\PetStore.csproj|solutionrelative:petstore\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D54D9E9E-783E-4C94-AEBC-740B1E8B9179}|PetStore\\PetStore.csproj|c:\\users\\nhan\\workplace\\hsu\\webdev\\w5\\petstore\\petstore\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D54D9E9E-783E-4C94-AEBC-740B1E8B9179}|PetStore\\PetStore.csproj|solutionrelative:petstore\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D54D9E9E-783E-4C94-AEBC-740B1E8B9179}|PetStore\\PetStore.csproj|c:\\users\\nhan\\workplace\\hsu\\webdev\\w5\\petstore\\petstore\\models\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D54D9E9E-783E-4C94-AEBC-740B1E8B9179}|PetStore\\PetStore.csproj|solutionrelative:petstore\\models\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D54D9E9E-783E-4C94-AEBC-740B1E8B9179}|PetStore\\PetStore.csproj|c:\\users\\nhan\\workplace\\hsu\\webdev\\w5\\petstore\\petstore\\models\\orderheader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D54D9E9E-783E-4C94-AEBC-740B1E8B9179}|PetStore\\PetStore.csproj|solutionrelative:petstore\\models\\orderheader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D54D9E9E-783E-4C94-AEBC-740B1E8B9179}|PetStore\\PetStore.csproj|c:\\users\\nhan\\workplace\\hsu\\webdev\\w5\\petstore\\petstore\\petstore.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{D54D9E9E-783E-4C94-AEBC-740B1E8B9179}|PetStore\\PetStore.csproj|solutionrelative:petstore\\petstore.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\nhan\\workplace\\hsu\\webdev\\w5\\PetStore\\PetStore\\Views\\Products\\Index.cshtml",
+              "RelativeDocumentMoniker": "PetStore\\Views\\Products\\Index.cshtml",
+              "ToolTip": "C:\\Users\\nhan\\workplace\\hsu\\webdev\\w5\\PetStore\\PetStore\\Views\\Products\\Index.cshtml",
+              "RelativeToolTip": "PetStore\\Views\\Products\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-23T04:39:26.392Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\nhan\\workplace\\hsu\\webdev\\w5\\PetStore\\PetStore\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "PetStore\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\nhan\\workplace\\hsu\\webdev\\w5\\PetStore\\PetStore\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "PetStore\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-23T04:39:16.986Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\nhan\\workplace\\hsu\\webdev\\w5\\PetStore\\PetStore\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "PetStore\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\nhan\\workplace\\hsu\\webdev\\w5\\PetStore\\PetStore\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "PetStore\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAxwBkAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T04:25:47.646Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\nhan\\workplace\\hsu\\webdev\\w5\\PetStore\\PetStore\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "PetStore\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\nhan\\workplace\\hsu\\webdev\\w5\\PetStore\\PetStore\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "PetStore\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABwAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T04:22:00.777Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nhan\\workplace\\hsu\\webdev\\w5\\PetStore\\PetStore\\Program.cs",
+              "RelativeDocumentMoniker": "PetStore\\Program.cs",
+              "ToolTip": "C:\\Users\\nhan\\workplace\\hsu\\webdev\\w5\\PetStore\\PetStore\\Program.cs",
+              "RelativeToolTip": "PetStore\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T04:11:13.511Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\nhan\\workplace\\hsu\\webdev\\w5\\PetStore\\PetStore\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "PetStore\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\nhan\\workplace\\hsu\\webdev\\w5\\PetStore\\PetStore\\Models\\Category.cs",
+              "RelativeToolTip": "PetStore\\Models\\Category.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAA1wBUAAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T04:09:10.159Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\nhan\\workplace\\hsu\\webdev\\w5\\PetStore\\PetStore\\Models\\Customer.cs",
+              "RelativeDocumentMoniker": "PetStore\\Models\\Customer.cs",
+              "ToolTip": "C:\\Users\\nhan\\workplace\\hsu\\webdev\\w5\\PetStore\\PetStore\\Models\\Customer.cs",
+              "RelativeToolTip": "PetStore\\Models\\Customer.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAA1wAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T04:09:01.044Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "OrderDetail.cs",
+              "DocumentMoniker": "C:\\Users\\nhan\\workplace\\hsu\\webdev\\w5\\PetStore\\PetStore\\Models\\OrderDetail.cs",
+              "RelativeDocumentMoniker": "PetStore\\Models\\OrderDetail.cs",
+              "ToolTip": "C:\\Users\\nhan\\workplace\\hsu\\webdev\\w5\\PetStore\\PetStore\\Models\\OrderDetail.cs",
+              "RelativeToolTip": "PetStore\\Models\\OrderDetail.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAgwB4AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T04:08:44.781Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "OrderHeader.cs",
+              "DocumentMoniker": "C:\\Users\\nhan\\workplace\\hsu\\webdev\\w5\\PetStore\\PetStore\\Models\\OrderHeader.cs",
+              "RelativeDocumentMoniker": "PetStore\\Models\\OrderHeader.cs",
+              "ToolTip": "C:\\Users\\nhan\\workplace\\hsu\\webdev\\w5\\PetStore\\PetStore\\Models\\OrderHeader.cs",
+              "RelativeToolTip": "PetStore\\Models\\OrderHeader.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T04:08:40.575Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PetStoreContext.cs",
+              "DocumentMoniker": "C:\\Users\\nhan\\workplace\\hsu\\webdev\\w5\\PetStore\\PetStore\\Models\\PetStoreContext.cs",
+              "RelativeDocumentMoniker": "PetStore\\Models\\PetStoreContext.cs",
+              "ToolTip": "C:\\Users\\nhan\\workplace\\hsu\\webdev\\w5\\PetStore\\PetStore\\Models\\PetStoreContext.cs",
+              "RelativeToolTip": "PetStore\\Models\\PetStoreContext.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAA5wAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T04:08:35.943Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\nhan\\workplace\\hsu\\webdev\\w5\\PetStore\\PetStore\\appsettings.json",
+              "RelativeDocumentMoniker": "PetStore\\appsettings.json",
+              "ToolTip": "C:\\Users\\nhan\\workplace\\hsu\\webdev\\w5\\PetStore\\PetStore\\appsettings.json",
+              "RelativeToolTip": "PetStore\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-23T04:02:53.458Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PetStore",
+              "DocumentMoniker": "C:\\Users\\nhan\\workplace\\hsu\\webdev\\w5\\PetStore\\PetStore\\PetStore.csproj",
+              "RelativeDocumentMoniker": "PetStore\\PetStore.csproj",
+              "ToolTip": "C:\\Users\\nhan\\workplace\\hsu\\webdev\\w5\\PetStore\\PetStore\\PetStore.csproj",
+              "RelativeToolTip": "PetStore\\PetStore.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-04-23T03:56:05.442Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

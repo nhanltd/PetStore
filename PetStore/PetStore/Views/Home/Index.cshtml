@@ -1,0 +1,27 @@
+﻿@model IEnumerable<PetStore.Models.Product>
+
+
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+@* <div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+    <p>Learn about <a href="https://learn.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+</div> *@
+<div class="row">
+    @foreach (var product in Model)
+    {
+    // 1 dong 3 cot
+        <div class="col-sm-4">
+            <img src="~/products/@(product.Id).jpg"/>
+           Id: @product.Id <br />
+           Desc: @product.Description <br />
+            Price: @product.Price <br />
+            Discount: @product.Discount <br />
+            Category: @product.Category.Name <br />
+            
+        </div>
+        <br />
+    }
+</div>
